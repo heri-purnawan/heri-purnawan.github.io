@@ -6,7 +6,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper proposes a centralized and decentralized nonlinear model predictive control (NMPC) for multiple robots in the trajectory tracking problem with collision avoidance.'
 date: 2021-06-03
 venue: 'Nonlinear Dynamics and Systems Theory'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.e-ndst.kiev.ua/v21n3/6(78).pdf'
 citation: 'Purnawan, H., Subchan, S., Adzkiya, D., & Asfihani, T. (2021). &quot;Trajectory tracking of coordinated multi-robot systems using nonlinear model predictive control.&quot; <i>Nonlinear Dynamics and Systems Theory </i>. 21(3).'
 ---
