@@ -21,7 +21,7 @@ repository               : "heri-purnawan/heri-purnawan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto-min.jpg"
   name             : "Heri Purnawan"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer and Researcher"
