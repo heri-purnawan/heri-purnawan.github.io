@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Trajectory tracking of coordinated multi-robot systems using nonlinear model predictive control"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2021-06-03
+venue: 'Nonlinear Dynamics and Systems Theory'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://www.e-ndst.kiev.ua/v21n3/6(78).pdf'
+citation: 'Purnawan, H., Subchan, S., Adzkiya, D., & Asfihani, T. (2021). &quot;Trajectory tracking of coordinated multi-robot systems using nonlinear model predictive control.&quot; <i>Nonlinear Dynamics and Systems Theory </i>. 21(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper proposes a centralized and decentralized nonlinear model predictive control (NMPC) for multiple robots in the trajectory tracking problem with collision avoidance. The kinematic model of mobile robot is employed to implement these concepts. The path of each robot is constructed such that there exist some intersections between some paths of the robots. Additionally, the initial conditions and parameters of the model are taken so that the robots will collide on the intersections of their paths. Based on the simulation results, both centralized and decentralized schemes can avoid collision between one robot and another one by satisfying the in
+equality constraints. All solutions of the optimization problems in both schemes are feasible as well, so this indicates that local minimum solutions are found. According to the simulations, the decentralized scheme is better than the centralized scheme in terms of the computational complexity and error tracking.
