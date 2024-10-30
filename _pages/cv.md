@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<a href="/files/heri-purnawan-cv.pdf" download>Download CV</a>
+
 {% include base_path %}
 
 Education
