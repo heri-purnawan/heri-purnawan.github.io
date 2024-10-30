@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="/files/heri-purnawan-cv.pdf" download>Download CV</a>
+<a href="heri-purnawan.github.io/files/heri_purnawan_cv.pdf" download>Download CV</a>
 
 {% include base_path %}
 
