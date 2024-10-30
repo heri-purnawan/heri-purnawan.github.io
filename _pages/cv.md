@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/heri_purnawan_cv
 author_profile: true
 redirect_from:
   - /resume
@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Indonesia (2020-2024).
+* M.Sc. in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Indonesia (2016-2018).
+* B.Sc. in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Indonesia (2011-2015).
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - now: Lecturer
+  * Universitas Islam Lamongan
+  * Department of Electrical Engineering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 - 2017: Lecturer Assistant
+  * Institut Teknologi Sepuluh Nopember
+  * Department of Mathematics
+  * Course: Calculus 1 & 2
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014: Internship Program
+  * National Institute of Aeronautics and Space (LAPAN)
+  * Aeronautics Technology Center
+  * Project: Modeling and Simulation of Lapan Surveillance UAV (LSU)-05
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language: Indonesia and English
+* Coding
+  * Matlab
+  * C/C++
+* LaTeX typesetting
 
 Publications
 ======
@@ -59,6 +57,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards and Achievements
 ======
-* Currently signed in to 43 different slack teams
+* Indonesian Education Scholarship (BPI), Doctoral Study Completion (partially), the Ministry of Education, Culture, Research and Technology (KEMENDIKBUDRISTEK), Indonesia (2023).
+* Postgraduate Scholarship for Researcher (BPUP), Doctoral’s Degree, Institut Teknologi Sepuluh Nopember (2020-2022).
+* Fresh Graduate Scholarship, Master's Degree, Institut Teknologi Sepuluh Nopember (2016-2018).
+* Bidik Misi Scholarship, Bachelor's Degree, Institut Teknologi Sepuluh Nopember (2011-2015).
