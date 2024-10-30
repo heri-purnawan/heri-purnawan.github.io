@@ -1,20 +1,27 @@
 ---
-title: "Teaching experience 1"
+title: "Linear System (2 credits)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Universitas Islam Lamongan, Electrical Engineering"
+date: 2024
+location: "Lamongan, Indonesia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course studies signals and systems, analysis of continuous and discrete time linear systems, Laplace transform, and Z transform.
 
-Heading 1
+Learning materials
 ======
 
-Heading 2
+* Signal
+* System
+* Time-domain analysis of continuous-time system
+* Time-domain analysis of discrete-time system
+* Laplace transform
+* Z transform
+
+References
 ======
 
-Heading 3
-======
+1. Lathi, B. P., (2005), Linear Systems and Signals, Oxford University Press, Inc.
+1. Oppenheim, A. V., Willsky, A. S., Nawab, S. H., (1997), Signals and Systems (2nd edition), Prentice Hall
