@@ -26,12 +26,12 @@ Work experience
 * 2016 - 2017: Lecturer Assistant
   * Institut Teknologi Sepuluh Nopember
   * Department of Mathematics
-  * Course: Calculus 1 & 2
+  * Course: Calculus 1 and 2
 
-* 2014: Internship Program
+* 3/2014 - 5/2015: Internship Program (undergraduate final project)
   * National Institute of Aeronautics and Space (LAPAN)
   * Aeronautics Technology Center
-  * Project: Modeling and Simulation of Lapan Surveillance UAV (LSU)-05
+  * Project: Control System Design and Simulation of Lapan Surveillance UAV (LSU)-05
   
 Skills
 ======
