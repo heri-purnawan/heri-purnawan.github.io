@@ -14,8 +14,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Indonesia (2020-2024).
-* M.Sc. in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Indonesia (2016-2018).
-* B.Sc. in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Indonesia (2011-2015).
+* M.Sc in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Indonesia (2016-2018).
+* B.Sc in Applied Mathematics, Institut Teknologi Sepuluh Nopember, Indonesia (2011-2015).
 
 Work experience
 ======
