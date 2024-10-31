@@ -2,7 +2,7 @@
 title: "Reference tracking of quadrotor using modified nonlinear model predictive control based on nonlinear disturbance observer"
 collection: publications
 category: conferences
-permalink: /publication/2023-09-30-reference-tracking-quadrotor
+permalink: /publication/2024-07-25-reference-tracking-quadrotor
 excerpt: 'This paper proposes a modified nonlinear model predictive control based on nonlinear disturbance observer (NDO-NMPC) for reference tracking of a quadrotor.'
 date: 2024-07-25
 venue: 'International Conference on Mathematics: Pure, Applied and Computation'
