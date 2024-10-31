@@ -1,7 +1,7 @@
 ---
 title: "Model predictive control design under stochastic parametric uncertainties based on polynomial chaos expansions for f-16 aircraft"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-05-01-model-predictive-control-jrc
 excerpt: 'This paper presents a novel approach to stochastic model predictive control (SMPC) by employing the polynomial chaos expansion (PCE) method called PCE-based model predictive control (PCE-MPC).'
 date: 2024-05-01
