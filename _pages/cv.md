@@ -28,7 +28,7 @@ Work experience
   * Department of Mathematics
   * Course: Calculus 1 and 2
 
-* 3/2014 - 5/2015: Internship Program (undergraduate final project)
+* 3/2014 - 5/2014: Internship Program (undergraduate final project)
   * National Institute of Aeronautics and Space (LAPAN)
   * Aeronautics Technology Center
   * Project: Control System Design and Simulation of Lapan Surveillance UAV (LSU)-05
