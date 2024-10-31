@@ -17,5 +17,5 @@ Honours and Achievements
 - Graduated Magna Cum Laude, Bachelor Degree, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia. 
 - Fresh Graduate Scholarship, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia, (2016-2018).
 - Graduated Summa Cum Laude, Master Degree, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia.
-- Postgraduate Scholarship for Researcher (BPUP), Doctoral’s Degree, Institut Teknologi Sepuluh Nopember, Indonesia (2020-2022).  
+- Postgraduate Scholarship for Researcher (BPUP), Doctoral Degree, Institut Teknologi Sepuluh Nopember, Indonesia (2020-2022).  
 - Indonesian Education Scholarship (BPI), Doctoral Study Completion (partially), the Ministry of Education, Culture, Research and Technology (KEMENDIKBUDRISTEK), Indonesia (2023).
