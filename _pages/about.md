@@ -13,7 +13,7 @@ My research interests are in systems and control, including state estimation, nu
 
 Honours and Achievements
 ======
-- Undergraduate Scholarship, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia, (2011-2015).
+- Bidik Misi Scholarship, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia, (2011-2015).
 - Graduated Magna Cum Laude, Bachelor Degree, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia. 
 - Fresh Graduate Scholarship, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia, (2016-2018).
 - Graduated Summa Cum Laude, Master Degree, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia.
