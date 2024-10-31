@@ -14,7 +14,7 @@ Research Interests
 * Estimation 
 * Optimization
 * System identification 
-* Model predictive control. 
+* Model predictive control 
 
 Honours and Achievements
 ======
