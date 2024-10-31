@@ -1,11 +1,11 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: ''
+date: 2024-10-31
+permalink: /posts/
 tags:
   - cool posts
   - category1
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+There is no announcement for this moment. 
