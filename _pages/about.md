@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I earned Bachelor's, Master's, and Doctoral's degrees in applied mathematics from the Department of Mathematics at Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia, in 2015, 2018, and 2024, respectively. In August-September 2014 and March-June 2015, I conducted an internship program at the Avionics Aerospace Technology Center, Indonesian National Institute of Aeronautics and Space (LAPAN), Bogor, Indonesia, under the supervision of Ir. Eko Budi Purwanto, MT. Since February 2022, I have joined the Department of Electrical Engineering, Faculty of Engineering at Universitas Islam Lamongan (UNISLA), Lamongan, Indonesia.
+I earned Bachelor's, Master's, and Doctoral's degrees in applied mathematics from the Department of Mathematics at Institut Teknologi Sepuluh Nopember (ITS), Surabaya, Indonesia, in 2015, 2018, and 2024, respectively. In August-September 2014 and March-June 2015, I conducted an internship program at the Avionics at Aerospace Technology Center, Indonesian National Institute of Aeronautics and Space (LAPAN), Bogor, Indonesia, under the supervision of Ir. Eko Budi Purwanto, MT. Since February 2022, I have joined the Department of Electrical Engineering, Faculty of Science and Technology (FST) at Universitas Islam Lamongan (UNISLA), Lamongan, Indonesia.
 
-My research interests are in systems and control, including state estimation, numerical optimization, and model predictive control. 
+My research interests are in systems and control, including state estimation, numerical optimization, dynamical system, and model predictive control. 
 
 Honours and Achievements
 ======
