@@ -6,10 +6,10 @@ subtitle: <a href='#'>Affiliations</a>. Dept. Electrical Engineering. Univ. Isla
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: foto_heri.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>The 1st floor at Building C</p>
+    <p>Building C, 1st floor</p>
     <p>Veteran street No. 53A</p>
     <p>Jetis 62211, Lamongan, Indonesia</p>
 
