@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**TE3233 Fundamental of Control System, Fall 2024, Electrical Engineering, Universitas Islam Lamongan**
 
-Organize your courses by years, topics, or universities, however you like!
+**TE4249 Linear System, Fall 2024, Electrical Engineering, Universitas Islam Lamongan**
+
+**TE5278 Numerical Method, Fall 2024, Electrical Engineering, Universitas Islam Lamongan**
+
+**KL1209 Fundamental of Calculus, Fall 2024, Environmental Health, Universitas Islam Lamongan**
+
+**Ordinary Differential Equation, Fall 2024, Mathematics Education, Universitas Islam Lamongan**
