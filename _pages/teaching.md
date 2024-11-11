@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: 
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 **TE3233 Fundamental of Control System, Fall 2024, Electrical Engineering, Universitas Islam Lamongan**
