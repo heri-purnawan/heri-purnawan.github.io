@@ -1,3 +1,13 @@
-I earned my B.Sc., M.Sc., and Ph.D. degrees in Applied Mathematics from the Department of Mathematics at Institut Teknologi Sepuluh Nopember (ITS) in Surabaya, Indonesia, in 2015, 2018, and 2024, respectively. In August-September 2014 and March-June 2015, I conducted an internship program at the Avionics at Aerospace Technology Center, Indonesian National Institute of Aeronautics and Space (LAPAN), Bogor, Indonesia, under the supervision of Ir. Eko Budi Purwanto, MT. Since February 2022, I have been part of the Department of Electrical Engineering at Universitas Islam Lamongan (UNISLA) in Lamongan, Indonesia. The department was initially under the Faculty of Engineering, which has since become the Faculty of Science and Technology (FST).
+Heri Purnawan
+Lecturer, Electrical Engineering Dept., Univ. Islam Lamongan.
 
-My research interests are system and control, including estimation, optimization, system identification, and model predictive control.
+Education:
+* Ph.D: Applied Mathematics, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+* M.Sc: Applied Mathematics, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+* B.Sc: Applied Mathematics, Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
+
+Research interests:
+* estimation
+* optimization
+* system identification
+* model predictive control
