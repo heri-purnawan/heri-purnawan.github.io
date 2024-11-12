@@ -22,7 +22,7 @@ profiles:
   #      Veteran street No. 53A, Jetis 62211, Lamongan
   - align: left
     image: foto-min.jpg
-    content: about.md
+    content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Building C, 1st floor</p>
