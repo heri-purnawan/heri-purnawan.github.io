@@ -20,6 +20,9 @@ layout: page
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
+          {% if profile.email %}
+          <a href="mailto:{{ profile.email }}" class="card-link"><i class="fas fa-envelope"></i></a>
+          {% endif %}
         </div>
 
         <div class="clearfix">
