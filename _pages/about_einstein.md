@@ -1,4 +1,4 @@
-Heri Purnawan
+<h2>Heri Purnawan</h2>
 
 Lecturer, Electrical Engineering Dept., Univ. Islam Lamongan.
 
