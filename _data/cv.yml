@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 6th June 1993
     - name: Languages
-      value: Indonesia, English
+      value: English, Indonesia
 
 - title: Education
   type: time_table
