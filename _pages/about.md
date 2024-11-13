@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a> Dept. Electrical Engineering, Univ. Islam Lamongan.
+subtitle: <a href='#'>Affiliations</a> Department of Electrical Engineering, Universitas Islam Lamongan.
 
 profile:
   align: right
