@@ -41,7 +41,11 @@ layout: default
           <div class="social">
             <div class="contact-icons">{% include social.liquid %}</div>
 
-            <div class="contact-note">{{ site.contact_note }}</div>
+            <div class="contact-note">{{ site.contact_note }}
+              {%- if site.email -%}
+              <a href="mailto:{{ site.email | encode_email }}" title="email">Email <i class="fas fa-envelope"></i></a> is the best way to reach me.
+              {% endif %}
+            </div>
           </div>
         {% endif %}
 
