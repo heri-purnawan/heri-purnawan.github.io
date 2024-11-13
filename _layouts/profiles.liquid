@@ -20,6 +20,11 @@ layout: page
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
+          <div class="contact-note">{{ site.contact_note }}
+          {%- if site.email -%}
+              <a href="mailto:{{ site.email | encode_email }}" title="email">Email <i class="fas fa-envelope"></i></a> is the best way to reach me.
+          {% endif %}
+          </div>
         </div>
 
         <div class="clearfix">
