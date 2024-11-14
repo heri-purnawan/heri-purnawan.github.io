@@ -126,22 +126,15 @@
   ],
   "interests": [
     {
-      "name": "System and Control",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Estimation",
-        "System Identification",
-        "Model Predictive Control",
-        "Optimal Control",
-        "Multi-agent System"
-      ]
-    },
-    {
       "name": "Mathematics",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Differential Equation",
-        "Optimization"
+        "Model Predictive Control",
+        "Mathematical System Theory",
+        "Optimal Control",
+        "Estimation",
+        "System Identification"
       ]
     }
   ],
