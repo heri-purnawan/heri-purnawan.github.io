@@ -29,7 +29,7 @@
       "url": "https://unisla.ac.id/",
       "startDate": "2022-02-01",
       "summary": "Teaching and research",
-      "highlights": ["System and Control"]
+      "highlights": ["Electrical Engineering"]
     }
   ],
   "education": [
@@ -58,6 +58,21 @@
       "date": "2016-09-01",
       "awarder": "Master’s Degree, Institut Teknologi Sepuluh Nopember",
       "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Postgraduate Scholarship for Researcher (BPUP)",
+      "date": "2020",
+      "end": "2022",
+      "awarder": "Doctoral’s Degree, Institut Teknologi Sepuluh Nopember",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Indonesian Education Scholarship (BPI)",
+      "date": "2023",
+      "awarder": "Doctoral’s Degree, Ministry of Education, Culture, Research and Technology (KEMENDIKBUDRISTEK)",
+      "url": "https://beasiswa.kemdikbud.go.id/",
       "summary": ""
     }
   ],
