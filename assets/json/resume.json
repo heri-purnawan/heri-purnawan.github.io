@@ -48,22 +48,21 @@
   "awards": [
     {
       "title": "Bidik Misi Scholarship",
-      "date": "2011-09-01",
+      "date": "2011-2015",
       "awarder": "Bachelor’s Degree, Institut Teknologi Sepuluh Nopember",
       "url": "",
       "summary": ""
     },
     {
       "title": "Fresh Graduate Scholarship",
-      "date": "2016-09-01",
+      "date": "2016-2018",
       "awarder": "Master’s Degree, Institut Teknologi Sepuluh Nopember",
       "url": "",
       "summary": ""
     },
     {
       "title": "Postgraduate Scholarship for Researcher (BPUP)",
-      "date": "2020",
-      "end": "2022",
+      "date": "2020-2022",
       "awarder": "Doctoral’s Degree, Institut Teknologi Sepuluh Nopember",
       "url": "",
       "summary": ""
@@ -79,14 +78,14 @@
   "certificates": [
     {
       "name": "Data Scientist Training",
-      "date": "2022-08-01",
+      "date": "2022",
       "issuer": "Professional Academy Program, Ministry of Communication and Information Technology (KOMINFO)",
       "url": "https://digitalent.kominfo.go.id/program?akademi=PROA",
       "icon": "fa-solid fa-tag"
     },
     {
       "name": "PEKERTI Training",
-      "date": "2023-04-01",
+      "date": "2023",
       "issuer": "Directorate of Innovation and Educational Development (DIPP), Universitas Airlangga, Surabaya",
       "url": "https://ditipp.unair.ac.id/pekerti/",
       "icon": "fa-solid fa-tag"
