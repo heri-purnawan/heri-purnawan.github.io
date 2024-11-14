@@ -42,7 +42,7 @@
       "startDate": "2020-08-20",
       "endDate": "2024-08-20",
       "score": "10",
-      "courses": ["Disturbance Observer-based Stochastic Model Predictive Control Design for Systems with Parameter Uncertainties and Disturbances"]
+      "courses": ["Disturbance observer-based stochastic model predictive control design for systems with parameter uncertainties and disturbances"]
     }
   ],
   "awards": [
@@ -134,12 +134,12 @@
   "references": [
     {
       "name": "Prof. Subchan, PhD",
-      "icon": "fa-solid fa-email",
+      "icon": "fa-solid fa-envelope",
       "reference": "Professor, Department of Mathematics, Institut Teknologi Sepuluh Nopember, Indonesia"
     },
     {
       "name": "Dr. Dieky Adzkiya",
-      "icon": "fa-solid fa-email",
+      "icon": "fa-solid fa-envelope",
       "reference": "Assistant Professor, Department of Mathematics, Institut Teknologi Sepuluh Nopember, Indonesia"
     }
   ]
