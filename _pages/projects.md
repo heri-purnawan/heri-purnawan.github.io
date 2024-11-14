@@ -22,8 +22,10 @@ Excellent programming skills:
 * Matlab
 
 <h4>Your Benefits</h4>
-* This project will cover your tuition fees for some semesters.
-* Respectful supervision and guidance are provided in many ways for direct interactions and prompt feedback.
-* A family-friendly and all-welcoming atmosphere with flexible working hours.
-* Funding for publication of your work.
+<ol>
+    <li>This project will cover your tuition fees for some semesters.</li>
+    <li>Respectful supervision and guidance are provided in many ways for direct interactions and prompt feedback.</li>
+    <li>A family-friendly and all-welcoming atmosphere with flexible working hours.</li>
+    <li>Funding for publication of your work.</li>
+</ol>
 
