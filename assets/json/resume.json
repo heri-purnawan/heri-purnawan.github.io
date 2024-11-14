@@ -6,7 +6,7 @@
     "email": "heripurnawan@unisla.ac.id",
     "phone": "(+62) 82140797329",
     "url": "https://heri-purnawan.github.io",
-    "summary": "I am a mathematician who learns mathematics in Institut Teknologi Sepuluh Nopember",
+    "summary": "I am a person who likes mathematics. I continued my studies from undergraduate to doctoral degree in the Mathematics Department, Institut Teknologi Sepuluh Nopember with an interest in systems and control.",
     "location": {
       "address": "Veteran street No. 53A",
       "postalCode": "Jetis 62211",
@@ -45,7 +45,7 @@
       "courses": ["Disturbance Observer-based Stochastic Model Predictive Control Design for Systems with Parameter Uncertainties and Disturbances"]
     }
   ],
-  "achievements": [
+  "awards": [
     {
       "title": "Bidik Misi Scholarship",
       "date": "2011-09-01",
@@ -65,7 +65,7 @@
     {
       "name": "Data Scientist Training",
       "date": "2022-08-01",
-      "issuer": "in Professional Academy Program, Ministry of Communication and Information Technology (KOMINFO)",
+      "issuer": "Professional Academy Program, Ministry of Communication and Information Technology (KOMINFO)",
       "url": "https://digitalent.kominfo.go.id/program?akademi=PROA",
       "icon": "fa-solid fa-tag"
     },
