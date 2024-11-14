@@ -1,65 +1,29 @@
 ---
 layout: page
 title: Join Us
-permalink: /projects/
+permalink: /join-us/
 description: 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: 
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+We seek self-motivated students or researchers interested in control theory, machine learning, and optimization. If you’re eager to work on innovative projects, consider joining us! Publications will be a key focus and primary outcome of the research group.
 
-{% else %}
+Essential knowledge that you need:
+* Calculus
+* Linear algebra
+* System and control theory
+* Optimization
 
-<!-- Display projects without categories -->
+Excellent programming skills: 
+* Python
+* Matlab
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+<h4>Your Benefits</h4>
+* This project will cover your tuition fees for some semesters.
+* Respectful supervision and guidance are provided in many ways for direct interactions and prompt feedback.
+* A family-friendly and all-welcoming atmosphere with flexible working hours.
+* Funding for publication of your work.
 
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
