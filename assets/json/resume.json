@@ -48,21 +48,21 @@
   "awards": [
     {
       "title": "Bidik Misi Scholarship",
-      "startDate": "2011-2015",
+      "date": "2011-2015",
       "awarder": "Bachelor’s Degree, Institut Teknologi Sepuluh Nopember",
       "url": "",
       "summary": ""
     },
     {
       "title": "Fresh Graduate Scholarship",
-      "startDate": "2016-2018"
+      "date": "2016-2018"
       "awarder": "Master’s Degree, Institut Teknologi Sepuluh Nopember",
       "url": "",
       "summary": ""
     },
     {
       "title": "Postgraduate Scholarship for Researcher (BPUP)",
-      "startDate": "2020-2022",
+      "date": "2020-2022",
       "awarder": "Doctoral’s Degree, Institut Teknologi Sepuluh Nopember",
       "url": "",
       "summary": ""
