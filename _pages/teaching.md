@@ -11,9 +11,9 @@ nav_order: 5
 
 **[TE3233 Fundamental of Control System, Electrical Engineering, Universitas Islam Lamongan](/teaching/te3233/)**
 
-**[TE4249 Linear System, Electrical Engineering, Universitas Islam Lamongan](/te4249/)**
+**[TE4249 Linear System, Electrical Engineering, Universitas Islam Lamongan](/teaching/te4249/)**
 
-**[TE5278 Numerical Method, Electrical Engineering, Universitas Islam Lamongan](/te5278/)**
+**[TE5278 Numerical Method, Electrical Engineering, Universitas Islam Lamongan](/teaching/te5278/)**
 
 **KL1209 Fundamental of Calculus, Environmental Health, Universitas Islam Lamongan**
 
