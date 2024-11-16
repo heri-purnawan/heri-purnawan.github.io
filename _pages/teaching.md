@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description:  
+description: These courses are based on teaching tasks in 2024  
 nav: true
 nav_order: 5
 ---
