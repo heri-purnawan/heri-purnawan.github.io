@@ -7,9 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-<h3>Fall Semester (Semester Ganjil)</h3>
+## Fall Semester (Semester Ganjil)
 
-**[TE3233 Fundamental of Control System, Electrical Engineering, Universitas Islam Lamongan](/te3233/)**
+**[TE3233 Fundamental of Control System, Electrical Engineering, Universitas Islam Lamongan](/teaching/te3233/)**
 
 **[TE4249 Linear System, Electrical Engineering, Universitas Islam Lamongan](/te4249/)**
 
