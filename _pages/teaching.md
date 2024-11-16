@@ -2,17 +2,19 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: 
+description:  
 nav: true
 nav_order: 5
 ---
 
-**TE3233 Fundamental of Control System, Fall 2024, Electrical Engineering, Universitas Islam Lamongan**
+<h3>Fall Semester (Semester Ganjil)</h3>
 
-**TE4249 Linear System, Fall 2024, Electrical Engineering, Universitas Islam Lamongan**
+**[TE3233 Fundamental of Control System, Electrical Engineering, Universitas Islam Lamongan](/te3233/)**
 
-**TE5278 Numerical Method, Fall 2024, Electrical Engineering, Universitas Islam Lamongan**
+**[TE4249 Linear System, Electrical Engineering, Universitas Islam Lamongan](/te4249/)**
 
-**KL1209 Fundamental of Calculus, Fall 2024, Environmental Health, Universitas Islam Lamongan**
+**[TE5278 Numerical Method, Electrical Engineering, Universitas Islam Lamongan](/te5278/)**
 
-**Ordinary Differential Equation, Fall 2024, Mathematics Education, Universitas Islam Lamongan**
+**KL1209 Fundamental of Calculus, Environmental Health, Universitas Islam Lamongan**
+
+**Ordinary Differential Equation, Mathematics Education, Universitas Islam Lamongan**
