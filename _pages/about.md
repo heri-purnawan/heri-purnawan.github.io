@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Affiliations</a> Department of Electrical Engineering, <a href='https://unisla.ac.id/'>Universitas Islam Lamongan.
+subtitle: Affiliations Department of Electrical Engineering, <a href='https://unisla.ac.id/'></a>Universitas Islam Lamongan.
 
 profile:
   align: right
