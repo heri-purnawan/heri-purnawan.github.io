@@ -17,7 +17,7 @@ nav_order: 5
 
 **KL1209 Fundamentals of Calculus, Environmental Health, Universitas Islam Lamongan**
 
-**Ordinary Differential Equation, Mathematics Education, Universitas Islam Lamongan**
+**KKM24420 Ordinary Differential Equation, Mathematics Education, Universitas Islam Lamongan**
 
 
 ## Spring Semester (Semester Genap)
