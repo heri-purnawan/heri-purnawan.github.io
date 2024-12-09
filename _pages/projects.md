@@ -17,11 +17,11 @@ Our group focuses on advancing the fields of system modelling, control design, a
 
 <h3>Research Interests</h3>
 
-1. **System Modelling**: Create accurate mathematical representations of physical, biological, and engineering systems to understand their behavior and predict responses under various conditions.
+* **System Modelling**: Create accurate mathematical representations of physical, biological, and engineering systems to understand their behavior and predict responses under various conditions.
 
-1. **Control Design**: Develop advanced control strategies such as Model Predictive Control (MPC), intelligent control (including fuzzy logic, neural networks, and reinforcement learning), robust control, and adaptive control to optimize system performance.
+* **Control Design**: Develop advanced control strategies such as Model Predictive Control (MPC), intelligent control (including fuzzy logic, neural networks, and reinforcement learning), robust control, and adaptive control to optimize system performance.
 
-4. **Simulation**: Design and implement computational experiments to test and validate control strategies, evaluate system robustness, and simulate real-world scenarios.
+* **Simulation**: Design and implement computational experiments to test and validate control strategies, evaluate system robustness, and simulate real-world scenarios.
 
 <h3>Applications</h3>
 Our research spans multiple domains, including:
