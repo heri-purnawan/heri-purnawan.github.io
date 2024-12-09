@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Us
+title: System Modelling and Control Simulation
 permalink: /join-us/
 description: 
 nav: true
@@ -9,24 +9,30 @@ display_categories:
 horizontal: false
 ---
 
-I seek self-motivated students or researchers interested in control theory, machine learning, and optimization. If you’re eager to work on innovative projects, consider joining my research group as a partner! Publications will be a primary outcome of the research group.
+Welcome to the **System Modelling and Control Simulation Research Group**!
 
-Essential knowledge that you need:
-* Calculus
-* Linear algebra
-* System and control theory
-* Optimization
-* Machine learning (will be a plus)
+Our group focuses on advancing the fields of system modelling, control design, and simulation to address complex challenges in science and engineering. By leveraging the power of applied mathematics, numerical optimization, and control theory, we aim to develop innovative methodologies and technologies that contribute to understanding and controlling dynamic systems.
 
-Excellent programming skills: 
-* Python, or
-* Matlab
+<h3>Research Interests</h3>
 
-<h4>Your Benefits</h4>
-<ol>
-    <li>If you are a student at the university, the project you participate in will cover your tuition fees.</li>
-    <li>Respectful supervision and guidance are provided in many ways for direct interactions and prompt feedback.</li>
-    <li>A family-friendly and all-welcoming atmosphere with flexible working hours.</li>
-    <li>Funding for publication of your work in a high-impact journal. </li>
-</ol>
+1. **System Modelling**: Create accurate mathematical representations of physical, biological, and engineering systems to understand their behavior and predict responses under various conditions.
+
+1. **Control Design**: Develop advanced control strategies such as Model Predictive Control (MPC), intelligent control (including fuzzy logic, neural networks, and reinforcement learning), robust control, and adaptive control to optimize system performance.
+
+4. **Simulation**: Design and implement computational experiments to test and validate control strategies, evaluate system robustness, and simulate real-world scenarios.
+
+<h3>Applications</h3>
+Our research spans multiple domains, including:
+
+* Robotics and autonomous systems
+* Renewable energy systems and smart grids
+* Aerospace and UAVs
+* Manufacturing systems and process control
+* Biological and environmental systems
+
+<h3>Collaborative Vision</h3>
+
+We bring together experts from applied mathematics, electrical engineering, computer science, and statistics to foster a multidisciplinary environment for impactful research. We aim to bridge the gap between research and real-world implementation by integrating theoretical insights with practical applications.
+
+Feel free to explore our projects, publications, and activities as we strive to advance knowledge in system modelling, intelligent control, and simulation!
 
