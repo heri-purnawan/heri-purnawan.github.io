@@ -9,7 +9,7 @@ display_categories:
 horizontal: false
 ---
 
-<h1>System Modelling and Control Simulation</h1>
+<h2>System Modelling and Control Simulation</h2>
 
 Welcome to the **System Modelling and Control Simulation Research Group**!
 
