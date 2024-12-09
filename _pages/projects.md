@@ -1,6 +1,6 @@
 ---
 layout: page
-title: System Modelling and Control Simulation
+title: Join Us
 permalink: /join-us/
 description: 
 nav: true
