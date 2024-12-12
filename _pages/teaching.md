@@ -24,4 +24,6 @@ nav_order: 5
 
 **TE1205 Fundamentals of Computer and Programming, Electrical Engineering, Universitas Islam Lamongan**
 
+**TE4237 Advanced Programming Language, Electrical Engineering, Universitas Islam Lamongan**
+
 **TE7251 Artificial Intelligence, Electrical Engineering, Universitas Islam Lamongan**
