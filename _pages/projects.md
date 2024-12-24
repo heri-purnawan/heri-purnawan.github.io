@@ -9,13 +9,13 @@ display_categories:
 horizontal: false
 ---
 
-<h2>System Modelling and Control Simulation</h2>
+<h2>System Modelling and Control</h2>
 
-Welcome to the **System Modelling and Control Simulation Research Group**!
+Welcome to the **System Modelling and Control Research Group**!
 
 Our group focuses on advancing the fields of system modelling, control design, and simulation to address complex challenges in science and engineering. By leveraging the power of applied mathematics, numerical optimization, and control theory, we aim to develop innovative methodologies and technologies that contribute to understanding and controlling dynamic systems.
 
-<h3>Research Interests</h3>
+<h3>Research Activities</h3>
 
 * **System Modelling**: Create accurate mathematical representations of physical, biological, and engineering systems to understand their behavior and predict responses under various conditions.
 
