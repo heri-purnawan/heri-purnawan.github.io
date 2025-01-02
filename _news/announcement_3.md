@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-At this moment, I am preparing the research proposal for the HIBAH program of the Ministry of Higher Education, Research and Technology in 2025. 
+At this moment, we are preparing the research proposal for the HIBAH program of the Ministry of Higher Education, Research and Technology in 2025. 
