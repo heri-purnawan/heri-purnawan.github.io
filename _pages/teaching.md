@@ -17,7 +17,7 @@ nav_order: 5
 
 **KKM24420 Ordinary Differential Equation, Mathematics Education, Fall Semester, Universitas Islam Lamongan, 2024**
 
-##
+<br>
 
 **TE1205 Fundamentals of Computer and Programming, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
 
