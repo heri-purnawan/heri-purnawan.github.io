@@ -7,6 +7,12 @@ nav: true
 nav_order: 5
 ---
 
+**TE1205 Fundamentals of Computer and Programming, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
+
+**TE7251 Artificial Intelligence, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
+
+<br>
+
 **[TE3233 Fundamentals of Control System, Electrical Engineering, Fall Semester, Universitas Islam Lamongan, 2024](/teaching/te3233/)**
 
 **[TE4249 Linear System, Electrical Engineering, Fall Semester, Universitas Islam Lamongan, 2024](/teaching/te4249/)**
@@ -17,8 +23,4 @@ nav_order: 5
 
 **KKM24420 Ordinary Differential Equation, Mathematics Education, Fall Semester, Universitas Islam Lamongan, 2024**
 
-<br>
 
-**TE1205 Fundamentals of Computer and Programming, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
-
-**TE7251 Artificial Intelligence, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
