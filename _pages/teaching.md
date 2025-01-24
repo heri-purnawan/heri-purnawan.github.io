@@ -7,23 +7,18 @@ nav: true
 nav_order: 5
 ---
 
-## Fall Semester (Semester Ganjil)
+**[TE3233 Fundamentals of Control System, Electrical Engineering, Fall Semester, Universitas Islam Lamongan, 2024](/teaching/te3233/)**
 
-**[TE3233 Fundamentals of Control System, Electrical Engineering, Universitas Islam Lamongan](/teaching/te3233/)**
+**[TE4249 Linear System, Electrical Engineering, Fall Semester, Universitas Islam Lamongan, 2024](/teaching/te4249/)**
 
-**[TE4249 Linear System, Electrical Engineering, Universitas Islam Lamongan](/teaching/te4249/)**
+**[TE5278 Numerical Method, Electrical Engineering, Fall Semester, Universitas Islam Lamongan, 2024](/teaching/te5278/)**
 
-**[TE5278 Numerical Method, Electrical Engineering, Universitas Islam Lamongan](/teaching/te5278/)**
+**KL1209 Fundamentals of Calculus, Environmental Health, Fall Semester, Universitas Islam Lamongan, 2024**
 
-**KL1209 Fundamentals of Calculus, Environmental Health, Universitas Islam Lamongan**
+**KKM24420 Ordinary Differential Equation, Mathematics Education, Fall Semester, Universitas Islam Lamongan, 2024**
 
-**KKM24420 Ordinary Differential Equation, Mathematics Education, Universitas Islam Lamongan**
+##
 
+**TE1205 Fundamentals of Computer and Programming, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
 
-## Spring Semester (Semester Genap)
-
-**TE1205 Fundamentals of Computer and Programming, Electrical Engineering, Universitas Islam Lamongan**
-
-**TE4237 Advanced Programming Language, Electrical Engineering, Universitas Islam Lamongan**
-
-**TE7251 Artificial Intelligence, Electrical Engineering, Universitas Islam Lamongan**
+**TE7251 Artificial Intelligence, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
