@@ -7,9 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-**TE1205 Fundamentals of Computer and Programming, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
+**[TE1205 Fundamentals of Computer and Programming, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025](/teaching/te1205/)**
 
-**TE7251 Artificial Intelligence, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
+**[TE7251 Artificial Intelligence, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025](/teaching/te7251/)**
 
 <br>
 
