@@ -21,6 +21,6 @@ nav_order: 5
 
 **KL1209 Fundamentals of Calculus, Environmental Health, Fall Semester, Universitas Islam Lamongan, 2024**
 
-**KKM24420 Ordinary Differential Equation, Mathematics Education, Fall Semester, Universitas Islam Lamongan, 2024**
+**[KKM24420 Ordinary Differential Equation, Mathematics Education, Fall Semester, Universitas Islam Lamongan, 2024](/teaching/kkm24420/)**
 
 
