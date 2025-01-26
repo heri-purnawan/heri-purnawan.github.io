@@ -6,7 +6,7 @@ subtitle: Department of Electrical Engineering, <a href='https://unisla.ac.id/'>
 
 profile:
   align: right
-  image: foto-min.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Building C, 1st floor</p>
