@@ -11,7 +11,7 @@ horizontal: false
 
 Welcome to the **System Modelling and Control Research Group**!
 
-Our group focuses on advancing the fields of system modelling, control design, and simulation to address complex challenges in science and engineering. By leveraging the power of applied mathematics, numerical optimization, and control theory, we aim to develop innovative methodologies and technologies that contribute to understanding and controlling dynamic systems.
+We bring together experts from applied mathematics, electrical engineering, computer science, and statistics to foster a multidisciplinary environment for impactful research. By integrating theoretical insights with practical applications, we aim to bridge the gap between research and real-world implementation.
 
 <h3>Research Activities</h3>
 
@@ -29,10 +29,6 @@ Our research spans multiple domains, including:
 * Aerospace and UAVs
 * Manufacturing systems and process control
 * Biological and environmental systems
-
-<h3>Collaborative Vision</h3>
-
-We bring together experts from applied mathematics, electrical engineering, computer science, and statistics to foster a multidisciplinary environment for impactful research. We aim to bridge the gap between research and real-world implementation by integrating theoretical insights with practical applications.
 
 Feel free to explore our projects, publications, and activities as we strive to advance knowledge in system modelling, intelligent control, and simulation!
 
