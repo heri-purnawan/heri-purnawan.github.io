@@ -9,6 +9,8 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <font size="8">Heri Purnawan</font></a> <p>
+    <p>Lecturer at <a href='https://unisla.ac.id/'>Universitas Islam Lamongan</a><p>
     <p>Building C, 1st floor</p>
     <p>Veteran street No. 53A</p>
     <p>Jetis 62211, Lamongan, Indonesia</p>
