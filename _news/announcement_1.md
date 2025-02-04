@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We have submitted our paper to the Mathematical Modelling and Control, published by the American Institute of Mathematical Science (AIMS) press.
+We have submitted our paper to the Mathematical Modelling and Control, published by the American Institute of Mathematical Sciences (AIMS) press.
