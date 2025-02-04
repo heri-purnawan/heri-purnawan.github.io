@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile.jpg
+  image: heri_icompac2023.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <font size="8">Heri Purnawan</font></a>
