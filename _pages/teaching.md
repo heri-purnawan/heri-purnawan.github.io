@@ -7,9 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-**Engineering Mathematics II, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
+**[TE4485 Engineering Mathematics II, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025](/teaching/te4485/)**
 
-**Complex Variables, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025**
+**[TE2215 Fundamentals of Chemistry, Electrical Engineering, Spring Semester, Universitas Islam Lamongan, 2025](/teaching/te2215/)**
 
 <br>
 
