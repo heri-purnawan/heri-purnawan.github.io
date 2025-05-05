@@ -11,24 +11,23 @@ horizontal: false
 
 Welcome to the **System Modelling and Control Research Group**!
 
-We bring together experts from applied mathematics, electrical engineering, computer science, and statistics to foster a multidisciplinary environment for impactful research. By integrating theoretical insights with practical applications, we aim to bridge the gap between research and real-world implementation.
+We’re seeking passionate students interested in system modelling and control design. 
 
-<h3>Research Activities</h3>
+<h3>Your Profiles</h3>
 
-* **System Modelling**: Create accurate mathematical representations of physical, biological, and engineering systems to understand their behavior and predict responses under various conditions.
+* Have a strong desire to learn new knowledge.
+* Basic knowledge of calculus, linear algebra, systems and control theory, and optimization is desirable. However, you will learn and discuss this with us.
+* Excellent programming skills: Python or MATLAB will be beneficial. Do not worry, though, since you will learn them with us.
+* Good communication skills are essential, particularly in English. However, we can provide funding to support your learning if you want to take an English course.
 
-* **Control Design**: Develop advanced control strategies such as Model Predictive Control (MPC), intelligent control (including fuzzy logic, neural networks, and reinforcement learning), robust control, and adaptive control to optimize system performance.
+<h3>Your Benefits</h3>
 
-* **Simulation**: Design and implement computational experiments to test and validate control strategies, evaluate system robustness, and simulate real-world scenarios.
+* We will cover your tuition fees.
+* Monthly incentive based on the contract. However, the incentive will be evaluated monthly, in accordance with the candidate's performance.
+* Respectful supervision and guidance are provided in many ways for direct interactions and prompt feedback.
+* A welcoming and family-friendly environment with flexible working hours.
+* Funding for the publication of your work.
 
-<h3>Applications</h3>
-Our research spans multiple domains, including:
 
-* Robotics and autonomous systems
-* Renewable energy systems and smart grids
-* Aerospace and UAVs
-* Manufacturing systems and process control
-* Biological and environmental systems
-
-Feel free to explore our projects, publications, and activities as we strive to advance knowledge in system modelling, intelligent control, and simulation!
+If you are interested, please send your motivation letter to me by email. In your motivation letter, include an introduction about yourself, explain why you are interested in this research, and why you believe you would be an excellent candidate for our team. If you have any questions, don’t hesitate to contact me.
 
