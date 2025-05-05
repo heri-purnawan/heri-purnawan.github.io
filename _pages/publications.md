@@ -11,6 +11,6 @@ Please check the up-to-date list on <a href='https://scholar.google.com/citation
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f {{ site.scholar.bibliography }} --query !@inproceedings %}
 
 </div>
