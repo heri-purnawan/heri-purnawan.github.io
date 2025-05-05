@@ -20,6 +20,21 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Our group focuses on advancing the fields of system modelling, control design, and simulation to address complex challenges in science and engineering. By leveraging the power of applied mathematics, computer science, and electrical engineering, we aim to develop innovative methodologies and technologies that contribute to understanding and controlling dynamic systems.
+System modelling and control is dedicated to advancing the understanding, design, and simulation of complex systems in science and engineering. The field develops innovative methods and technologies for analyzing and controlling dynamic systems by combining applied mathematics, computer science, and electrical engineering. Its goal is to bridge the gap between theory and real-world application by turning research insights into practical solutions.
 
-I earned my Bachelor, Master, and Doctoral degrees in Applied Mathematics from the <a href='https://www.its.ac.id/matematika/en/home/'>Department of Mathematics</a> at <a href='https://www.its.ac.id/'>Institut Teknologi Sepuluh Nopember (ITS)</a> in Surabaya, Indonesia, in 2015, 2018, and 2024, respectively. In August-September 2014 and March-June 2015, I conducted an internship program at the Avionics at Aerospace Technology Center, <a href='https://dirgantara-lapan.or.id/'>Indonesian National Institute of Aeronautics and Space (LAPAN)</a>, Bogor, Indonesia. Since February 2022, I have been part of the <a href='https://elektro.unisla.ac.id/'>Department of Electrical Engineering</a> at <a href='https://unisla.ac.id/'>Universitas Islam Lamongan (UNISLA)</a> in Lamongan, Indonesia. The department was initially under the Faculty of Engineering, which has since become the Faculty of Science and Technology (FST). My research interests are systems and control, including estimation, optimization, system identification, and model predictive control. For more about me, please take a look at my [CV](assets/pdf/heripurnawan_CV.pdf).
+Research activities in system modelling and control are
+* **System Modelling**: Create accurate mathematical representations of physical, biological, and engineering systems to understand their behavior and predict responses under various conditions.
+
+* **Control Design**: Develop advanced control strategies such as Model Predictive Control (MPC), intelligent control (including fuzzy logic, neural networks, and reinforcement learning), robust control, and adaptive control to optimize system performance.
+
+* **Simulation**: Design and implement computational experiments to test and validate control strategies, evaluate system robustness, and simulate real-world scenarios.
+
+Our research applications span multiple domains, including:
+
+* Robotics and autonomous systems
+* Renewable energy systems and smart grids
+* Aerospace and UAVs
+* Manufacturing systems and process control
+* Biological and environmental systems
+
+Feel free to explore our projects, publications, and activities as we strive to advance knowledge in system modelling, intelligent control, and simulation!
