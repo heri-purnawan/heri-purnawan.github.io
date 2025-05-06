@@ -2,16 +2,14 @@
 layout: page
 title: Join Us
 permalink: /join-us/
-description: 
+description: Want to get involved?
 nav: true
 nav_order: 3
 display_categories: 
 horizontal: false
 ---
 
-Welcome to the **System Modelling and Control Research Group**!
-
-We’re seeking passionate students interested in system modelling and control design. 
+We’re seeking passionate students interested in system modelling and control design to collaborate on our scientific research and projects.
 
 <h3>Your Profiles</h3>
 
@@ -29,5 +27,5 @@ We’re seeking passionate students interested in system modelling and control d
 * Funding for the publication of your work.
 
 
-If you are interested, please send your motivation letter to me by <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a>. In your motivation letter, include an introduction about yourself, explain why you are interested in this research, and why you believe you would be an excellent candidate for our team. If you have any questions, don’t hesitate to contact me at <a href="mailto:{{ site.email | encode_email }}" title="email">heripurnawan@unisla.ac.id <i class="fas fa-envelope"></i></a>.
+If you are interested in becoming a part of our research group, please send your motivation letter to me by <a href="mailto:{{ site.email | encode_email }}" title="email">email <i class="fas fa-envelope"></i></a>. In your motivation letter, include an introduction about yourself, explain why you are interested in this research, and why you believe you would be an excellent candidate for our team. If you have any questions, don’t hesitate to contact me at <a href="mailto:{{ site.email | encode_email }}" title="email">heripurnawan@unisla.ac.id <i class="fas fa-envelope"></i></a>.
 
