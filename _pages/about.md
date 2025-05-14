@@ -38,6 +38,4 @@ My research applications span multiple domains, including:
 * Manufacturing systems and process control
 * Biological and environmental systems
 
-Through this personal website, feel free to explore my projects, publications, and activities to advance knowledge in system modelling, intelligent control, and simulation!
-
-For more about me, please take a look at my [CV](assets/pdf/heripurnawan_CV.pdf).
+Through this personal website, feel free to explore my projects, publications, and activities to advance knowledge in system modelling, intelligent control, and simulation. For more about me, please take a look at my [CV](assets/pdf/heripurnawan_CV.pdf).
