@@ -9,7 +9,6 @@ profile:
   image: heri_icompac2023.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <font size="8">Heri Purnawan</font></a>
     <p>Lecturer at <a href='https://unisla.ac.id/'>Universitas Islam Lamongan</a></p>
     <p>Building C, 1st floor</p>
     <p>Veteran street No. 53A</p>
@@ -20,16 +19,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-System modelling and control is dedicated to advancing the understanding, design, and simulation of complex systems in science and engineering. The field develops innovative methods and technologies for analyzing and controlling dynamic systems by combining applied mathematics, computer science, and electrical engineering. Its goal is to bridge the gap between theory and real-world application by turning research insights into practical solutions.
+I received my Bachelor, Master, and Doctoral degrees in Applied Mathematics from the <a href='https://www.its.ac.id/matematika/en/home/'>Department of Mathematics</a> at <a href='https://www.its.ac.id/'>Institut Teknologi Sepuluh Nopember (ITS)</a> in Surabaya, Indonesia, in 2015, 2018, and 2024, respectively. In August-September 2014 and March-June 2015, I conducted an internship program at the Avionics at Aerospace Technology Center, <a href='https://dirgantara-lapan.or.id/'>Indonesian National Institute of Aeronautics and Space (LAPAN)</a>, Bogor, Indonesia. Since February 2022, I have been part of the <a href='https://elektro.unisla.ac.id/'>Department of Electrical Engineering</a> at <a href='https://unisla.ac.id/'>Universitas Islam Lamongan (UNISLA)</a> in Lamongan, Indonesia. The department was initially under the Faculty of Engineering, which has since become the Faculty of Science and Technology (FST).
 
-Research activities in system modelling and control are
-* **System Modelling**: Create accurate mathematical representations of physical, biological, and engineering systems to understand their behavior and predict responses under various conditions.
+My research aims to contribute to developing control strategies and algorithms that balance performance, robustness, and computational efficiency. These are my breakdown research interests:
+* **State and disturbance estimation**: to use observers and filtering techniques to enhance the accuracy of control actions.
 
-* **Control Design**: Develop advanced control strategies such as Model Predictive Control (MPC), intelligent control (including fuzzy logic, neural networks, and reinforcement learning), robust control, and adaptive control to optimize system performance.
+* **Optimization-based control**: to obtain an optimal control strategy for constrained systems.
 
-* **Simulation**: Design and implement computational experiments to test and validate control strategies, evaluate system robustness, and simulate real-world scenarios.
+* **System identification**: to build mathematical models from data, especially for linear and nonlinear systems.
+  
+* **Stochastic and robust control**: to deal with uncertainties in real-world applications
 
-Our research applications span multiple domains, including:
+My research applications span multiple domains, including:
 
 * Robotics and autonomous systems
 * Renewable energy systems and smart grids
@@ -37,4 +38,6 @@ Our research applications span multiple domains, including:
 * Manufacturing systems and process control
 * Biological and environmental systems
 
-Feel free to explore our projects, publications, and activities as we strive to advance knowledge in system modelling, intelligent control, and simulation!
+Through this personal website, feel free to explore my projects, publications, and activities to advance knowledge in system modelling, intelligent control, and simulation!
+
+For more about me, please take a look at my [CV](assets/pdf/heripurnawan_CV.pdf).
