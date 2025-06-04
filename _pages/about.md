@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I received my Bachelor, Master, and Doctoral degrees in Applied Mathematics from the <a href='https://www.its.ac.id/matematika/en/home/'>Department of Mathematics</a> at <a href='https://www.its.ac.id/'>Institut Teknologi Sepuluh Nopember (ITS)</a> in Surabaya, Indonesia, in 2015, 2018, and 2024, respectively. In August-September 2014 and March-June 2015, I conducted an internship program at the Avionics at Aerospace Technology Center, <a href='https://dirgantara-lapan.or.id/'>Indonesian National Institute of Aeronautics and Space (LAPAN)</a>, Bogor, Indonesia. Since February 2022, I have been part of the <a href='https://elektro.unisla.ac.id/'>Department of Electrical Engineering</a> at <a href='https://unisla.ac.id/'>Universitas Islam Lamongan (UNISLA)</a> in Lamongan, Indonesia. The department was initially under the Faculty of Engineering, which has since become the Faculty of Science and Technology (FST).
+He was born in Lamongan, East Java, Indonesia, and completed his elementary and middle school education there. After that, he continued his higher education at the <a href='https://www.its.ac.id/matematika/en/home/'>Department of Mathematics</a> at <a href='https://www.its.ac.id/'>Institut Teknologi Sepuluh Nopember (ITS)</a> in Surabaya, Indonesia and received Bachelor, Master, and Doctoral degrees in Applied Mathematics in 2015, 2018, and 2024, respectively. In August-September 2014 and March-June 2015, he conducted an internship program at the Avionics at Aerospace Technology Center, <a href='https://dirgantara-lapan.or.id/'> National Institute of Aeronautics and Space (LAPAN)</a>, Bogor, Indonesia. Since February 2022, he has been part of the <a href='https://elektro.unisla.ac.id/'>Department of Electrical Engineering</a> at <a href='https://unisla.ac.id/'>Universitas Islam Lamongan (UNISLA)</a> in Lamongan, Indonesia. The department was initially part of the Faculty of Engineering, which has since been reorganized as the Faculty of Science and Technology (FST).
 
-My research aims to contribute to developing control strategies and algorithms that balance performance, robustness, and computational efficiency. These are my breakdown research interests:
+His research aims to contribute to the development of control strategies and algorithms that strike a balance between performance, robustness, and computational efficiency. These are my breakdown research interests:
 * **State and disturbance estimation**: to use observers and filtering techniques to enhance the accuracy of control actions.
 
 * **Optimization-based control**: to obtain an optimal control strategy for constrained systems.
@@ -38,4 +38,4 @@ My research applications span multiple domains, including:
 * Manufacturing systems and process control
 * Biological and environmental systems
 
-Through this personal website, feel free to explore my projects, publications, and activities to advance knowledge in system modelling, intelligent control, and simulation. For more about me, please take a look at my [CV](assets/pdf/heripurnawan_CV.pdf).
+Through this personal website, you can explore my projects, publications, and activities to advance knowledge in system modelling, intelligent control, and simulation. For more about me, please take a look at my [CV](assets/pdf/heripurnawan_CV.pdf).
