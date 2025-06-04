@@ -30,7 +30,7 @@ His research aims to contribute to the development of control strategies and alg
   
 * **Stochastic and robust control**: to deal with uncertainties in real-world applications
 
-My research applications span multiple domains, including:
+His research applications span multiple domains, including:
 
 * Robotics and autonomous systems
 * Renewable energy systems and smart grids
@@ -38,4 +38,4 @@ My research applications span multiple domains, including:
 * Manufacturing systems and process control
 * Biological and environmental systems
 
-Through this personal website, you can explore my projects, publications, and activities to advance knowledge in system modelling, intelligent control, and simulation. For more about me, please take a look at my [CV](assets/pdf/heripurnawan_CV.pdf).
+Through this personal website, you can explore his projects, publications, and activities to advance knowledge in system modelling, intelligent control, and simulation. For more about him, please take a look at his [CV](assets/pdf/heripurnawan_CV.pdf).
