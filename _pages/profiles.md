@@ -20,7 +20,7 @@ profiles:
   #  address: >
   #      Building C, 1st floor #<br/>
   #      Veteran street No. 53A, Jetis 62211, Lamongan
-  # - align: left
+  - align: left
   #  image: foto-min.jpg
   content: about_einstein.md
   #  image_circular: false # crops the image to make it circular
