@@ -33,7 +33,7 @@ profiles:
   <br>
   *Principal Investigator (PI)*: **Heri Purnawan**
   
-  **Co-Investigator (Co-I)**:
+  *Co-Investigator (Co-I)*:
   * **Abdur Rohman Wakhid**
     <br>
     *Electrical Engineering, Universitas Islam Lamongan*
