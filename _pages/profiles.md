@@ -14,5 +14,5 @@ nav_order: 6
     * **Qori' Afiata Fiddina**
       <br>
       *Civil Engineering, Universitas Selamat Sri*
-  * *Research Assistant*: -
-  * *Staff Administration*: -
+  * *Research Assistant (RA)*: -
+  * *Staff Administration (SA)*: -
